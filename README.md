@@ -7,7 +7,7 @@ The purpose of this website enables the users to analyse the trend of the market
 npm >= 6.14
 ### Setting up Dev
 ```
-git clone https://github.com/aashritha070/Stock-Market-Analysis-Frontend
+git clone https://github.com/gokulnath2001/Stock-market-Analysis-Frontend
 cd stock-market-analysis-frontend
 npm install
 npm start
